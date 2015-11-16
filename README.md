@@ -12,10 +12,10 @@
 2:05 - 2:25 Talk by Ali  Title?
 
 2:30 - 2:50 Talk by Arturo: “Narco Emotions: Affect and Desensitization in Social Media during the Mexican Drug War"
-- Optional reading: 
-  “Narco Emotions: Affect and Desensitization in Social Media during the Mexican Drug War"
+- Optional readings: 
+  - “Narco Emotions: Affect and Desensitization in Social Media during the Mexican Drug War"
    http://research.microsoft.com/pubs/208580/affect_desensitize-v29.pdf
-  "Not All Moods are Created Equal! Exploring Human Emotional States in Social Media"
+  - "Not All Moods are Created Equal! Exploring Human Emotional States in Social Media"
    http://research.microsoft.com/pubs/167866/icwsm_12_1.pdf
 
 2:50 - 3:05 BREAK - Snacks provided
