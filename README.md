@@ -19,6 +19,8 @@
     - [Experimental evidence of massive-scale emotional contagion through social networks](http://www.pnas.org/content/111/24/8788.full)
     - [The Facebook Emotion Study in a Broader Context](http://www.scilogs.com/from_the_lab_bench/the-facebook-emotion-study-in-a-broader-context/)
 
+3:40 - 4:00 Panel discussion
+4:00 - 4:20 Administrivia 
 
 Grad leaders: @maryi  @arturo @kimberleegk @aliweb 
 Undergrad helpers: @sarah_warnock
