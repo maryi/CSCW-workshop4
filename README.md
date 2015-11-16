@@ -7,7 +7,7 @@
 
 1:40 - 2:00 Talk by Kimberlee
 ###### Social Media and People with Disabilities
-- Optional reading: http://ir.nmu.org.ua/bitstream/handle/123456789/145746/ee631201968ec8d6d413a149c6bc87ab.pdf?sequence=1
+- Optional reading: [Does That Face-“Book” Come in Braille?, p. 96] (http://ir.nmu.org.ua/bitstream/handle/123456789/145746/ee631201968ec8d6d413a149c6bc87ab.pdf?sequence=1)
 
 2:05 - 2:25 Talk by Ali  Title?
 
