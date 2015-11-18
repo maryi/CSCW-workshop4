@@ -10,7 +10,11 @@
   * Optional readings: 
     - [Does That Face-“Book” Come in Braille?, p. 96](http://ir.nmu.org.ua/bitstream/handle/123456789/145746/ee631201968ec8d6d413a149c6bc87ab.pdf?sequence=1)
 
-2:05 - 2:25 Talk by Ali  Title?
+2:05 - 2:25 Talk by Ali: **"Copyright issues in Social Media"**
+
+  * Optional readings:
+    - [Copyright and Social Media: Tips for Quick, Worry-Free Usage](http://www.tnla.org/?page=TL64_2_copyright)
+    - [Copyright issues for social media](https://www.legalzoom.com/articles/copyright-issues-for-social-media)
 
 2:30 - 2:50 Talk by Arturo: **"Narco Emotions: Affect and Desensitization in Social Media during the Mexican Drug War"**
 
