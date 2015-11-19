@@ -22,15 +22,15 @@
     - [Narco Emotions: Affect and Desensitization in Social Media during the Mexican Drug War](http://research.microsoft.com/pubs/208580/affect_desensitize-v29.pdf)
     - [Not All Moods are Created Equal! Exploring Human Emotional States in Social Media](http://research.microsoft.com/pubs/167866/icwsm_12_1.pdf)
   
-2:50 - 3:05 BREAK - Snacks provided
+2:50 - 3:00 BREAK - Snacks provided
 
-3:10 - 3:40 **Guess talk: Jeff Hancock** - *Professor in the Departments of Communication and Information Science at Cornell University.*
+3:00 - 3:40 **Guess talk: Jeff Hancock** - *Professor in the Departments of Communication and Information Science at Cornell University.*
 
   * Optional readings:
     - [Experimental evidence of massive-scale emotional contagion through social networks](http://www.pnas.org/content/111/24/8788.full)
     - [The Facebook Emotion Study in a Broader Context](http://www.scilogs.com/from_the_lab_bench/the-facebook-emotion-study-in-a-broader-context/)
 
-3:40 - 4:00 Panel discussion
+3:40 - 4:00 Group discussion
 
 4:00 - 4:20 Administrivia 
 
