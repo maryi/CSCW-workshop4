@@ -3,6 +3,8 @@
 
 ###Agenda
 
+[Dicussion questions]()
+
 1:30 - 1:40 Video [Social media revolution 2015](https://www.youtube.com/watch?v=0eUeL3n7fDs)
 
 1:40 - 2:00 Talk by Kimberlee: **"Social Media and People with Disabilities"**
